@@ -15,7 +15,11 @@ class Product {
                 name,price,amount);
     }
 
+
+    public void changeBalance(int newvalue) {
+    }
     public void changePrice() {
+
 
     }
 }

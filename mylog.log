@@ -1,0 +1,11 @@
+    1  mkdir java
+    2  cd java
+    3  git ini
+    4  git init
+    5  git remote add origin https://github.com/Kamax555/Lab42.git
+    6  git remote -v
+    7  git pull origin master
+    8  git add .
+    9  git commit -m "First commit"
+   10  git push remote origin
+   11  history>>mylog.log
